@@ -1,0 +1,2 @@
+URL=https://nwoewhzxyyptyhbqivwh.supabase.co
+KEY=sb_publishable_A6WtItpWbHOqoXOXV1U_dw_DJtIsCI6
